@@ -7,14 +7,13 @@ pick["DS"] = pick["LV"] - pick["IV"]
 DS = pick["LV"].sum() - pick["IV"].sum()
 
 # Just trying with top 10 rows of dataset
-pick_first_10=pick.iloc[0:1]
+pick_first_10=pick.iloc[0:10]
 num_of_rows=len(pick_first_10.index)
 
-print(pick_first_10)
 
 
 
-'''from py3dbp import Packer, Bin, Item
+from py3dbp import Packer, Bin, Item
 
 packer = Packer()
 
@@ -33,7 +32,7 @@ print(total_fitted_item)'''
 
 
 
-'''for b in packer.bins:
+for b in packer.bins:
     print(":::::::::::", b.string())
 
     print("FITTED ITEMS:")
@@ -43,4 +42,3 @@ print(total_fitted_item)'''
     print("UNFITTED ITEMS:")
     for item in b.unfitted_items:
         print("====> ", item.string())
-'''

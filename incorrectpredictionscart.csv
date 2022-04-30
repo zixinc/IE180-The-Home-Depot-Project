@@ -1,0 +1,332 @@
+,Item,Prediction,Actual
+0,"(1000696737.0, '30.25 IN. AB ENGINEERED COMPOSITE LI')",Pick Mod - Bin,SR - Full Pallet
+1,"(1005022814.0, '23.5X28.5 FRAMD FOG FREE MIRROR-WHT')",Pick Mod - Bin,SR - Full Pallet
+2,"(1002695579.0, 'ESSIE TOUCHLESS SINGLE-HANDLE PULL-D')",SR - Full Pallet,Pick Mod - Bin
+3,"(1004686351.0, 'WELLWORTH ELG TOILET SEAT')",Pick Mod - Bin,Pick Mod - Carton Flow
+4,"(1005652783.0, 'MKE M18 IMPACT WRENCH W/ FRICTION')",Pick Mod - Carton Flow,Pick Mod - Bin
+5,"(1003532263.0, 'BUTCHER BLOCK 98 IN. X 4 IN. WOOD BA')",Cantilever,Oblong
+6,"(1000670192.0, 'LARGE LOCKABLE RURAL MAILBOX BLACK')",Pick Mod - Carton Flow,SR - Full Pallet
+7,"(409089.0, 'A&H POWDER OXI 264OZ')",Pick Mod - Carton Flow,Pick Mod - Bin
+8,"(1005311530.0, '6 X 10 X 6 CHAIN LINK KENNEL')",Doors and Panels - Single Deep,Bulk Floor
+9,"(1001321790.0, 'FLATLOK 6-3/4"" 12PK')",Pick Mod - Carton Flow,Pick Mod - Bin
+10,"(1005448341.0, '36 IN. X 80 IN. LUMINAIRE BLACK RETR')",Oblong,Doors and Panels - Single Deep
+11,"(1002651363.0, 'CALHOUN COLLECTION 3-LIGHT BRUSHED N')",Pick Mod - Carton Flow,SR - Full Pallet
+12,"(1000308284.0, '4000 SERIES 120-VOLT 1/8 IN. CORDED')",Pick Mod - Carton Flow,Pick Mod - Bin
+13,"(1001655065.0, 'HUSKY STACKABLE GARAGE STORAGE BIN')",Pick Mod - Carton Flow,SR - Full Pallet
+14,"(1005725282.0, 'MKE M18 FUEL MULTI TOOL')",Pick Mod - Carton Flow,Pick Mod - Bin
+15,"(510194.0, '16""X25""X1"" HOUSEHOLD PLEAT FLTR 3PK')",Pick Mod - Carton Flow,Pick Mod - Bin
+16,"(1003168607.0, 'M18 12.0AH BATTERY')",Pick Mod - Carton Flow,Pick Mod - Bin
+17,"(513359.0, 'DAMPRID MOISTURE ABSRB TUB-FRAG FREE')",Pick Mod - Carton Flow,Pick Mod - Bin
+18,"(1003152108.0, 'GX75C - 3/4 HP MOEN GARBAGE DISPOSAL')",Pick Mod - Carton Flow,SR - Full Pallet
+19,"(118594.0, '5/8""X50\' SWAN MEDIUM DUTY HOSE')",Pick Mod - Carton Flow,Pick Mod - Pallet Flow
+20,"(1007472945.0, 'ASSEMBLED 9X30X12 IN. WALL CABINET I')",SR - Full Pallet,Pick Mod - Carton Flow
+21,"(1000502836.0, '15K-25K BTU PROPANE CONVECTION HEATE')",Pick Mod - Carton Flow,SR - Full Pallet
+22,"(1004698080.0, 'MINIBELTIS VICTORIAN WALL BLOCK')",Cantilever,Bulk Floor
+23,"(1002948990.0, '6 IN LED RECESSED TRIM CCT LUMEN SEL')",Pick Mod - Bin,Pick Mod - Carton Flow
+24,"(1005822238.0, 'RYOBI 18V HP BRUSHLESS 10"" CHAINSAW')",Pick Mod - Carton Flow,SR - Full Pallet
+25,"(1000771914.0, 'TOILET TANK COVER IN WHITE')",Pick Mod - Carton Flow,SR - Full Pallet
+26,"(1005072707.0, 'MACSTREET 1LT 9IN MATBLK WALLLNTRN')",Pick Mod - Bin,Pick Mod - Carton Flow
+27,"(1001528901.0, 'DW 1/4 2.3AMP SHEET PALM SANDER')",Pick Mod - Bin,Pick Mod - Carton Flow
+28,"(1002670574.0, 'JAO1501L-2 LED PATHWAY LIGHT BLACK')",Pick Mod - Bin,Pick Mod - Carton Flow
+29,"(1003456565.0, '6IN LED RECESSED TRIM W/ NIGHT LIGHT')",Pick Mod - Bin,Pick Mod - Carton Flow
+30,"(120706.0, '7/16 X2X9 PVC 2149 THRM STP WHITE')",Oblong,Cantilever
+31,"(1002077233.0, 'DEMPSEY 44 IN. LOW PROFILE LED INDOO')",SR - Full Pallet,Pick Mod - Carton Flow
+32,"(1005846828.0, 'SWIFFER SWEEPER XL DRY CLOTH 16CT')",Pick Mod - Bin,Pick Mod - Carton Flow
+33,"(489948.0, '1/2"" (.700 OD) DRIP IRR TUBING 100\'')",Pick Mod - Pallet Flow,Pick Mod - Carton Flow
+34,"(305728.0, 'METAL SHADE ZINC EXT LNTRN-DNI')",Pick Mod - Bin,Pick Mod - Carton Flow
+35,"(1002624315.0, 'PERF 18KW SLF-MODULATING TANKLESS')",Pick Mod - Carton Flow,SR - Full Pallet
+36,"(1000030726.0, 'STA-BIL 8 OZ ETHANOL FUEL TREATMENT')",Pick Mod - Bin,Pick Mod - Carton Flow
+37,"(1003836517.0, 'DR. EARTH P&G HOME GROWN TOM & VEG')",Pick Mod - Bin,Pick Mod - Carton Flow
+38,"(1003142018.0, 'GENTA 8"" 2HDL BATH FAUCET BN')",Pick Mod - Bin,Pick Mod - Carton Flow
+39,"(1001536209.0, 'KS SIG MONTARA VB HANDLESET')",Pick Mod - Carton Flow,Pick Mod - Bin
+40,"(1002713202.0, '22 IN. BLACK JUMBO DUST PAN')",SR - Full Pallet,Pick Mod - Carton Flow
+41,"(1005135896.0, 'DEWALT TSTAK 44LB DEEPBOX W/FLAT TOP')",Pick Mod - Carton Flow,SR - Full Pallet
+42,"(1005663501.0, 'ARBOR TOUCHLESS SINGLE-HANDLE PULL-D')",SR - Full Pallet,Pick Mod - Carton Flow
+43,"(1003553170.0, 'LIFT-OFF ELONGATED CLOSED FRONT TOIL')",Pick Mod - Bin,Pick Mod - Carton Flow
+44,"(891800.0, 'WM-WALL MAILSAFE LOCKABLE-BLK')",Pick Mod - Carton Flow,Pick Mod - Bin
+45,"(1003278819.0, 'DEWALT FLEXVOLT 60V CHAINSAW')",SR - Full Pallet,Pick Mod - Carton Flow
+46,"(1002844279.0, 'WHISPERSENSE DC FAN WITH MOTION AND')",Pick Mod - Carton Flow,SR - Full Pallet
+47,"(1001085210.0, 'GB 24""X 30""BEVELED EDGE BATH MIRROR')",Pick Mod - Bin,SR - Full Pallet
+48,"(1003318719.0, 'RYOBI 18V 200CFM BLOWER TOOL-ONLY')",SR - Full Pallet,Pick Mod - Carton Flow
+49,"(571198.0, '14X24 RETURN AIR FILTER GRILLE')",Pick Mod - Bin,Pick Mod - Carton Flow
+50,"(1002650724.0, '23X72 PVC MB CORDLESS-WHITE')",Pick Mod - Carton Flow,Pick Mod - Bin
+51,"(1002727118.0, 'BLACK OUTDOOR INTEGRATED LED LANDSCA')",Pick Mod - Bin,Pick Mod - Carton Flow
+52,"(1004687603.0, ""14' MULTI POSITION LADDER 300LB DUTY"")",Doors and Panels - Single Deep,Bulk Floor
+53,"(1002925479.0, 'STONEWOOD ROUND CLOSED FRONT TOILET')",Pick Mod - Carton Flow,Pick Mod - Bin
+54,"(397745.0, '3.5"" X7"" RUMBLESTONE MINI, SIERRA')",Oblong,Bulk Floor
+55,"(491914.0, 'MRS MEYERS DISH LEMVERB 16OZ')",Pick Mod - Bin,Pick Mod - Carton Flow
+56,"(503642.0, 'RIDGID HI-EFFCNY FLTR - 3-4.5G+ VACS')",Pick Mod - Bin,Pick Mod - Carton Flow
+57,"(326734.0, 'POWERCARE 2 CYCLE OIL: 6.4OZ 50:1')",Pick Mod - Bin,Pick Mod - Carton Flow
+58,"(1000050934.0, 'MKE M12 2PK BATTERIES 3.0AH')",Pick Mod - Bin,Pick Mod - Carton Flow
+59,"(1001773023.0, 'MKE M18 FUEL 1"" SDS+ D-HANDLE RH')",Pick Mod - Bin,Pick Mod - Carton Flow
+60,"(767925.0, ""4' FG STEP LADDER TI 250LB"")",Bulk Floor,Doors and Panels - Single Deep
+61,"(1004820687.0, '24 FT. SOLAR INDOOR/OUTDOOR PARTY LE')",Pick Mod - Bin,Pick Mod - Carton Flow
+62,"(929281.0, 'BATTOP IONIZATION SMOKE CONTRACTOR')",Pick Mod - Carton Flow,Pick Mod - Bin
+63,"(1004956750.0, '5/6IN T20 RL56 LEDRETROFT 600L CCTSE')",Pick Mod - Bin,Pick Mod - Carton Flow
+64,"(1006209489.0, '2.3-AMP 8-INCH 5-SPEED BENCHTOP DRIL')",SR - Full Pallet,Pick Mod - Carton Flow
+65,"(1004583354.0, 'SLIPCOVER SET  CG STONE GRAY')",Pick Mod - Bin,SR - Full Pallet
+66,"(1002211272.0, 'LADERA SINGLE-HANDLE 3-SPRAY TUB AND')",Pick Mod - Carton Flow,Pick Mod - Bin
+67,"(1001419930.0, 'TRADITNAL SHWR TRACK 48-60"" NICKEL')",Oblong,Doors and Panels - Single Deep
+68,"(1000000659.0, 'DRIP EXPANSION AND REPAIR KIT')",Pick Mod - Carton Flow,Pick Mod - Bin
+69,"(1005866515.0, 'TOUGHSYSTEM 2.0 DEEP FOAM TOOL DRAWE')",Pick Mod - Bin,Pick Mod - Carton Flow
+70,"(1003866837.0, 'EXIT EMER COMBO W BATT')",Pick Mod - Carton Flow,Pick Mod - Bin
+71,"(296601.0, '3/4""X2-1/4"" PLANO STRIP MARSH 20SF')",Oblong,Bulk Floor
+72,"(1002753337.0, '8X8 AMANTUS-CA-5.33SF')",Pick Mod - Bin,SR - Half Pallet
+73,"(1001487707.0, 'CUB CADET 42 IN. MULCH KIT')",Pick Mod - Bin,Pick Mod - Carton Flow
+74,"(1005457384.0, '4X4 LUXECRAFT WHITE HEX - CA - 3SF')",Pick Mod - Bin,SR - Full Pallet
+75,"(1000052298.0, 'RYB 14 AMP CIRC. SAW')",Pick Mod - Carton Flow,Pick Mod - Bin
+76,"(1001562710.0, '12X12 P&S CARRARA MARBLE - 30SF CA')",Pick Mod - Carton Flow,Pick Mod - Bin
+77,"(1005234273.0, '5 QT. AIR FRYER WITH DUO TOUCHSCREEN')",SR - Full Pallet,Pick Mod - Carton Flow
+78,"(1003088930.0, 'SGZ1010UC')",Pick Mod - Bin,Pick Mod - Carton Flow
+79,"(1000802969.0, 'LOPROFILE 80 CFM CEILING/WALL EXHAUS')",Pick Mod - Carton Flow,SR - Full Pallet
+80,"(1001083704.0, '23IN TWO-TONED MIRROR SLVR FOG FREE')",Pick Mod - Carton Flow,SR - Full Pallet
+81,"(545751.0, 'DEWALT 42"" WRECKING BAR')",Bulk Floor,Oblong
+82,"(1001188282.0, 'DW 15 DEG SIDING NAILER')",Pick Mod - Carton Flow,Pick Mod - Bin
+83,"(1004470524.0, 'STYLE PLUS NRW CLOSET KIT AB-WHT')",Pick Mod - Carton Flow,SR - Full Pallet
+84,"(1002696680.0, '4X50 VIG PT BND WDBLCK FBRC - HG/GS')",Pick Mod - Bin,SR - Full Pallet
+85,"(1002161865.0, 'ELMBROOK PEDESTAL WH')",Pick Mod - Carton Flow,SR - Full Pallet
+86,"(929965.0, 'RIDGID WET APPLICATION FILTER')",Pick Mod - Bin,Pick Mod - Carton Flow
+87,"(1000637477.0, 'STAINLESS STEEL MIXING BOWLS WITH LI')",Pick Mod - Carton Flow,Pick Mod - Bin
+88,"(753200.0, 'ECHO 16"" GAS CURVED TRIMMER')",Oblong,Doors and Panels - Single Deep
+89,"(290892.0, '13"" X 20"" SHALLOW JUMBO VALVE BOX BL')",SR - Full Pallet,Pick Mod - Bin
+90,"(1003423127.0, 'WHISPERGREEN SELECT PICK-A-FLOW 50/8')",Pick Mod - Carton Flow,SR - Full Pallet
+91,"(495804.0, 'QEP AQUABAR UNDERLAYMENT 500SF')",Bulk Floor,Oblong
+92,"(1005579327.0, 'CHARMIN ESSENTIALS SOFT 12 MEGA ROLL')",Oblong,Pick Mod - Carton Flow
+93,"(1004830436.0, 'CHARMIN SOFT 12 MEGA ROLL PLUS')",Pick Mod - Bin,SR - Full Pallet
+94,"(419825.0, 'WHITE PATIO DR HANDLE MORTISE STYLE')",Pick Mod - Carton Flow,Pick Mod - Bin
+95,"(1003287292.0, '1/2 IN. DIA. 28 IN. MID-CENTURY MODE')",Pick Mod - Carton Flow,SR - Full Pallet
+96,"(1003931083.0, '18-VOLT LXT LITHIUM-ION BRUSHLESS CO')",Pick Mod - Bin,Pick Mod - Carton Flow
+97,"(1005222690.0, 'DW 8 IN. 205 MM BENCH GRINDER')",SR - Full Pallet,Pick Mod - Carton Flow
+98,"(320709.0, 'HYDRA WHITE SINK PEDESTAL')",Pick Mod - Carton Flow,SR - Full Pallet
+99,"(1003060503.0, 'RYOBI 18V 280CFM TOOL-ONLY BLOWER')",SR - Full Pallet,Pick Mod - Carton Flow
+100,"(1004038871.0, 'NUTONE ROUND DCR LED 80 CFM 0.8 SONE')",Pick Mod - Carton Flow,SR - Full Pallet
+101,"(1000651644.0, '1/2 IN. X 50 FT. EMITTER TUBING COIL')",Pick Mod - Bin,SR - Full Pallet
+102,"(1000217331.0, 'SNAP-IN FILTER BROWN GUTTER GUARD')",Pick Mod - Bin,Pick Mod - Carton Flow
+103,"(1002666905.0, 'WISTERIA 80"" BLACK STEEL TRELLIS')",Oblong,Doors and Panels - Single Deep
+104,"(1003609678.0, 'HDX 18 GAL DS 30CT COMPACTOR BAGS')",Pick Mod - Carton Flow,Pick Mod - Bin
+105,"(1005934266.0, 'RDG 18V 1/2 IN DRILL/DRIVER KIT')",Pick Mod - Bin,Pick Mod - Carton Flow
+106,"(1002099122.0, '8 FT. 4-LIGHT WHITE INDUSTRIAL LED W')",Oblong,Cantilever
+107,"(580388.0, '3/4""X 3 1/4"" PLANO PLANK MARSH 22SF')",Oblong,Bulk Floor
+108,"(969441.0, '4"" X 100\' PRELOADED DRAIN-SLEEVE')",SR - Full Pallet,Pick Mod - Bin
+109,"(1002278028.0, 'RYB 18V 1/4 SHEET SANDER - TOOL ONLY')",Pick Mod - Carton Flow,Pick Mod - Bin
+110,"(497124.0, 'ECHO 2-STRK 2.6OZ ENGN OIL W/STBILZR')",Pick Mod - Bin,Pick Mod - Carton Flow
+111,"(1004061811.0, '4IN LED RECESSED TRIM W/ NIGHT LIGHT')",Pick Mod - Bin,Pick Mod - Carton Flow
+112,"(1005065542.0, '52"" CROWN CANYON II LED NOBLE BRONZE')",SR - Full Pallet,Pick Mod - Carton Flow
+113,"(1001267989.0, '9000 - 36000 BTU OUTDOOR WALL MOUNTI')",SR - Full Pallet,Pick Mod - Carton Flow
+114,"(1002582449.0, 'MAKITA 18V BL DRILL DRIVER 3.0AH KT')",Pick Mod - Bin,Pick Mod - Carton Flow
+115,"(768090.0, ""6' FG STEP LADDER TII 225LB"")",Bulk Floor,Doors and Panels - Single Deep
+116,"(795303.0, 'SATIN WHITE DISHWASHER END PANEL')",SR - Full Pallet,Pick Mod - Carton Flow
+117,"(219909.0, 'SELECTIVES T4 WHITE 25"" CLOSET KIT')",Bulk Floor,Doors and Panels - Single Deep
+118,"(1002671625.0, '3X6 BEVEL REST BRIGHT WHITE-CA-10SF')",Pick Mod - Bin,SR - Half Pallet
+119,"(1004911309.0, 'BEYOND BRIGHT')",Pick Mod - Bin,Pick Mod - Carton Flow
+120,"(1004202776.0, 'HOME NETWERKS 110 CFM BT LED NITE LT')",Pick Mod - Carton Flow,SR - Full Pallet
+121,"(493184.0, '150 LB METAL FOLDING HAND TRUCK')",Pick Mod - Carton Flow,SR - Full Pallet
+122,"(1002144933.0, 'RYOBI 4 CYCLE CURVED SHAFT TRIMMER')",SR - Full Pallet,Pick Mod - Carton Flow
+123,"(1000316430.0, '14-3 NM W/G 250 FT')",Pick Mod - Bin,SR - Full Pallet
+124,"(1005131849.0, 'CLX GERMICIDAL BLEACH 121OZ')",Pick Mod - Carton Flow,Pick Mod - Pallet Flow
+125,"(1004931347.0, '18-VOLT ONE  LITHIUM-ION PORTABLE PO')",Pick Mod - Bin,Pick Mod - Carton Flow
+126,"(1001815599.0, '6X24 ALASKA GRAY LEDGER-CA-6SF')",Pick Mod - Bin,SR - Half Pallet
+127,"(1001240191.0, '6 IN. X 17 FT. EXPANDING BARRIER')",Pick Mod - Carton Flow,Pick Mod - Bin
+128,"(1000405221.0, 'PAS POWER HEAD STRAIGHT-SHAFT EDGER')",Pick Mod - Carton Flow,SR - Full Pallet
+129,"(1001406587.0, '25CC 2-CYCLE FULL CRANK GAS BRUSH CU')",SR - Full Pallet,Pick Mod - Carton Flow
+130,"(1001195194.0, 'DW 18GA NARROW CROWN STAPLER')",Pick Mod - Carton Flow,Pick Mod - Bin
+131,"(1003800954.0, 'HALO 6IN RL DIRECTMNT LED RETROFIT C')",Pick Mod - Carton Flow,Pick Mod - Bin
+132,"(1005411040.0, 'RYB ONE+ MULTI-TOOL (TOOL ONLY)')",Pick Mod - Bin,Pick Mod - Carton Flow
+133,"(1006316338.0, 'SOLARSAGA 100-WATT SOLAR PANEL FOR E')",Pick Mod - Carton Flow,Pick Mod - Bin
+134,"(202447.0, 'CLX TBC 24OZ 2CT')",Pick Mod - Bin,Pick Mod - Carton Flow
+135,"(1005185085.0, 'M18 FUEL 18-VOLT LITHIUM-ION BRUSHLE')",Pick Mod - Carton Flow,SR - Full Pallet
+136,"(959537.0, 'HDX 13G DRAWSTRING KITCHEN 55CT')",Pick Mod - Carton Flow,Pick Mod - Bin
+137,"(1001360484.0, '24 IN. X 12.7 IN. VENTILATED WIRE SH')",SR - Full Pallet,Pick Mod - Carton Flow
+138,"(1002317323.0, 'TURF BLDR 20LB TALLFESCUE SEED')",Pick Mod - Carton Flow,SR - Full Pallet
+139,"(1002294548.0, 'RYOBI 18V LI+ TRIMMER/ BLOWER COMBO')",SR - Full Pallet,Pick Mod - Carton Flow
+140,"(1001647891.0, '14 FT. TUG-A-LONG WET/DRY VAC HOSE')",SR - Full Pallet,Pick Mod - Carton Flow
+141,"(1002543109.0, '24""X14""X30"" CHROME WIRE 3-SHELF UNIT')",SR - Full Pallet,Pick Mod - Carton Flow
+142,"(769080.0, ""10' FG STEP LADDER TIA 300LB"")",Doors and Panels - Single Deep,Ladders
+143,"(600632.0, '33""X32"" BLK STEEL WALK-THROUGH GATE')",Pick Mod - Carton Flow,SR - Full Pallet
+144,"(1001857807.0, 'ADLER 4"" 2HDL BATH FAUCET BN')",Pick Mod - Carton Flow,Pick Mod - Bin
+145,"(1003399800.0, '59"" HYDRO BASEBOARD HEAT 1000W-240V')",Bulk Floor,Oblong
+146,"(1002648496.0, ""40 LB LAWN THICK'R SUN & SHADE"")",Pick Mod - Carton Flow,SR - Full Pallet
+147,"(1002291460.0, 'LYNDHURST 52 IN. LED BRUSHED NICKEL')",Pick Mod - Carton Flow,SR - Full Pallet
+148,"(1006136226.0, 'VANILLA SATIN GOLD ROUND MIRROR')",Pick Mod - Bin,SR - Full Pallet
+149,"(1002099122.0, '8 FT. 4-LIGHT WHITE INDUSTRIAL LED W')",Oblong,Cantilever
+150,"(767925.0, ""4' FG STEP LADDER TI 250LB"")",Bulk Floor,Doors and Panels - Single Deep
+151,"(1005334041.0, 'MKE 3 LB. FIBERGLASS DRILLING HAMMER')",Pick Mod - Carton Flow,Pick Mod - Bin
+152,"(223697.0, '1-1/4""X36"" L-SHP ALUM/VNL DR BTM-S')",Pick Mod - Bin,Pick Mod - Carton Flow
+153,"(1004217383.0, 'DW 20V 5AH BATTERY STARTER KIT')",Pick Mod - Carton Flow,Pick Mod - Bin
+154,"(1002835518.0, 'M18 FUEL W/ ONE-KEY 18-VOLT LITHIUM-')",Pick Mod - Carton Flow,Pick Mod - Bin
+155,"(1005921297.0, 'BAZAAR ZEN CREAM 5 FT 2 IN X 7 FT 2')",Doors and Panels - Single Deep,Oblong
+156,"(647927.0, '2\'4""X50\' 16GA GRN PVC COAT RABT GRDN')",Pick Mod - Carton Flow,SR - Full Pallet
+157,"(1005236856.0, 'VACMOP PRO CORDLESS HARD FLOOR VAC A')",Pick Mod - Bin,Pick Mod - Carton Flow
+158,"(948066.0, '15/32 4X10 CDX PLYWOOD (S-1)')",Oblong,Cantilever
+159,"(1003338484.0, '48 FT. OUTDOOR LED STRING LIGHTS WIT')",Pick Mod - Bin,Pick Mod - Carton Flow
+160,"(1004671373.0, 'PLC 8.3W(65W) 6"" DWNLGHT WIFI TUNWHT')",Pick Mod - Bin,Pick Mod - Carton Flow
+161,"(1006248258.0, 'SHOCKWAVE 3/8 IN. DRIVE SAE AND METR')",Pick Mod - Carton Flow,Pick Mod - Bin
+162,"(646966.0, '4"" X1/8"" BROWN TPR WALLBASE 120\'')",SR - Full Pallet,SR - Half Pallet
+163,"(388332.0, 'LARGE AIRSEAL PET DOOR')",Pick Mod - Bin,Pick Mod - Carton Flow
+164,"(1003982264.0, 'MKE M18 CP3.0 HIGH OUTPUT BATT(2PK)')",Pick Mod - Carton Flow,Pick Mod - Bin
+165,"(1004813976.0, 'HALO 6IN HLBSL DIRMNT LED 3CCTSELCT')",Pick Mod - Carton Flow,Pick Mod - Bin
+166,"(1003924244.0, 'MKE M18 FUEL TRIM W/Q-LOK TOOL ONLY')",Pick Mod - Carton Flow,SR - Full Pallet
+167,"(1003800869.0, ""EVERBILT 9'X150' NON WOVEN HOUSEWRAP"")",Doors and Panels - Single Deep,Cantilever
+168,"(376383.0, '20""X25"" WHT RETURN AIR FILTER GRILLE')",Pick Mod - Carton Flow,SR - Full Pallet
+169,"(1006017788.0, 'ROOMBA 694 WI-FI CONNECTED ROBOTIC V')",SR - Full Pallet,Pick Mod - Carton Flow
+170,"(1002804058.0, 'KS ZWAVE SMARTCODE 916 VB')",Pick Mod - Carton Flow,Pick Mod - Bin
+171,"(578087.0, 'E/O DIATOMACEOUS EARTH 4LB BAG')",Pick Mod - Carton Flow,Pick Mod - Bin
+172,"(963186.0, 'WB T-SQUARE 48""')",Oblong,Doors and Panels - Single Deep
+173,"(1004584677.0, 'UNFINISHED MAPLE 50 IN.')",Doors and Panels - Single Deep,Bulk Floor
+174,"(760809.0, 'TWIST 7\'6""X12\' NATURAL RUG')",Doors and Panels - Single Deep,Ladders
+175,"(216847.0, 'VIGORO PERLITE 2CF')",Pick Mod - Carton Flow,Bulk Floor
+176,"(1003930963.0, 'MKE 3/8IN DRV SAE/MET RTCHT/SCKT56PC')",Pick Mod - Bin,Pick Mod - Carton Flow
+177,"(454082.0, 'LUFKIN CONTRACTOR MEASURING WHEEL')",SR - Full Pallet,Pick Mod - Carton Flow
+178,"(1004547931.0, 'RUBBERMAID FASTTRACK 7PC RAIL KIT')",SR - Full Pallet,Pick Mod - Bin
+179,"(768090.0, ""6' FG STEP LADDER TII 225LB"")",Bulk Floor,Doors and Panels - Single Deep
+180,"(1004318663.0, 'SMARTECH POWER KIT TECH-5000P VEHICL')",Pick Mod - Carton Flow,Pick Mod - Bin
+181,"(1003934772.0, 'KINGSFORD HARDWOOD CHARCOAL')",Pick Mod - Carton Flow,SR - Full Pallet
+182,"(1005205494.0, 'FLEXVOLT 60-VOLT MAX LITHIUM-ION COR')",Pick Mod - Carton Flow,SR - Full Pallet
+183,"(1001546348.0, 'COURANT 8 IN. WIDESPREAD 2-HANDLE BA')",Oblong,Pick Mod - Bin
+184,"(1002211268.0, 'VENTURI 8 IN. WIDESPREAD 2-HANDLE BA')",Pick Mod - Bin,Pick Mod - Carton Flow
+185,"(219909.0, 'SELECTIVES T4 WHITE 25"" CLOSET KIT')",Bulk Floor,Doors and Panels - Single Deep
+186,"(1001700044.0, 'MKE 12 INCH HIGH TENSION HACKSAW')",Pick Mod - Carton Flow,Pick Mod - Bin
+187,"(1002194656.0, '5 LB. FORGED STEEL PICK WITH 36 IN.')",SR - Full Pallet,Pick Mod - Carton Flow
+188,"(1005934355.0, ""HDC PIPER GREY 7'6X9'6 AREA RUG"")",Oblong,Doors and Panels - Single Deep
+189,"(578533.0, 'SQD 200A MB CSED OH/UG SURFCE')",SR - Full Pallet,Pick Mod - Carton Flow
+190,"(1002290572.0, '52"" HIGHBURY II LED MB')",SR - Full Pallet,Pick Mod - Carton Flow
+191,"(1004883605.0, 'DW FV 60V RECIP SAW KIT')",Pick Mod - Carton Flow,SR - Full Pallet
+192,"(1003345914.0, 'M12 FUEL 12-VOLT LITHIUM-ION BRUSHLE')",Pick Mod - Bin,Pick Mod - Carton Flow
+193,"(158528.0, '12 IN DEEP PLASTIC ROLLER TRAY - OR')",Pick Mod - Carton Flow,Pick Mod - Bin
+194,"(1004242118.0, 'M18 18V 6 TOOL COMBO KIT 2(3AH)')",SR - Full Pallet,Pick Mod - Carton Flow
+195,"(107022.0, 'SPECTRACIDE TRIAZICIDE GRANULE 10LB')",Pick Mod - Carton Flow,SR - Full Pallet
+196,"(1000055065.0, 'MKE M12 4.0AH 5/8"" ROT HAMMER KIT')",Pick Mod - Carton Flow,Pick Mod - Bin
+197,"(390814.0, 'HDX TERRY TOWELS 20PK')",Pick Mod - Carton Flow,Pick Mod - Bin
+198,"(154202.0, 'HOMELITE 17"" GAS STRAIGHT TRIMMER')",SR - Full Pallet,Pick Mod - Carton Flow
+199,"(1004240509.0, '4X8 LUXECRAFT WHITE - CA - 10.5SF')",Pick Mod - Bin,SR - Half Pallet
+200,"(1001834275.0, 'DW 20V BATTERY ADAPTER KIT (2) 2AH')",Pick Mod - Carton Flow,Pick Mod - Bin
+201,"(1004243329.0, 'METRIC COMBINATION RATCHETING WRENCH')",Pick Mod - Carton Flow,Pick Mod - Bin
+202,"(1003129264.0, 'TRACTOR SERIES D100 AND S240 SUN CAN')",Pick Mod - Carton Flow,SR - Full Pallet
+203,"(1000805176.0, 'GREENBUILDER 80 CFM CEILING EXHAUST')",Pick Mod - Bin,Pick Mod - Carton Flow
+204,"(1005012375.0, 'MKE M18 1/2""  IMP.WRENCHW/ RING KIT')",Pick Mod - Bin,Pick Mod - Carton Flow
+205,"(1003422965.0, 'WHISPERGREEN SELECT PICK-A-FLOW 50/8')",Pick Mod - Carton Flow,SR - Full Pallet
+206,"(1001196501.0, 'DRIPLINE WATERING CONVERSION KIT')",Pick Mod - Bin,Pick Mod - Carton Flow
+207,"(904331.0, 'INVOLVE SATNKL INSTNT HOT WATER DISP')",Pick Mod - Bin,Pick Mod - Carton Flow
+208,"(457918.0, '18"" BLK ADJ-HEIGHT OSCLLTNG PED FAN')",Pick Mod - Carton Flow,SR - Full Pallet
+209,"(1001753349.0, '10LB COPPER REFLECTIVE FIRE GLASS')",Pick Mod - Carton Flow,Pick Mod - Bin
+210,"(1005135916.0, '21.9 IN. TOUGH SYSTEM TOTE TOOL BOX')",Pick Mod - Carton Flow,Pick Mod - Bin
+211,"(1004851178.0, '6IN RA DIRECTMNT LED GIMBAL CCTSELCT')",Oblong,Pick Mod - Carton Flow
+212,"(1002501164.0, 'SCOTCH 1.41"" MASKING TAPE 2022 6PK')",Pick Mod - Carton Flow,Pick Mod - Bin
+213,"(1004202766.0, 'M18 FUEL 8 IN. EDGER ATTACHMENT FOR')",SR - Full Pallet,Pick Mod - Pallet Flow
+214,"(1003993920.0, 'DIRT DEVIL ENDURA REACH UPRIGHT')",Pick Mod - Carton Flow,SR - Full Pallet
+215,"(1001519804.0, '8 FT. HARDWOOD TOP ADJUSTABLE HEIGHT')",Doors and Panels - Single Deep,Bulk Floor
+216,"(1005399817.0, 'DW 20V FV ADV 4 1/2-5 GRINDER BT')",Pick Mod - Bin,Pick Mod - Carton Flow
+217,"(1001240190.0, '6 IN. X 5 FT. EXPANDING BARRIERS (2-')",Pick Mod - Carton Flow,SR - Half Pallet
+218,"(1005191358.0, 'RING ALARM 2.0 - 8 PIECE KIT')",Pick Mod - Carton Flow,Pick Mod - Bin
+219,"(1005236816.0, '18-VOLT ONE  MULTI-MATERIAL SAW (TOO')",Pick Mod - Carton Flow,Pick Mod - Bin
+220,"(1007185007.0, 'BRANTFORD 1-HANDLE POSI-TEMP VALVE T')",Pick Mod - Bin,Pick Mod - Carton Flow
+221,"(656844.0, '#165 DEL GRAY SANDED GROUT 25LB')",Pick Mod - Carton Flow,Pick Mod - Bin
+222,"(1002812701.0, 'INTEGRITY SERIES 80 CFM BATHROOM CEI')",Pick Mod - Carton Flow,Pick Mod - Bin
+223,"(503512.0, 'WAGNER RATCHET SMART ROLLER')",Pick Mod - Bin,Pick Mod - Carton Flow
+224,"(1001330812.0, 'TIDE PODS SPRING MDW 81CT')",Pick Mod - Bin,Pick Mod - Carton Flow
+225,"(1004102966.0, '13 IN. 20-VOLT MAX LITHIUM ION CORDL')",Pick Mod - Carton Flow,SR - Full Pallet
+226,"(1005056002.0, '52"" CAVERA LED CEIL FAN MATTE NICKEL')",SR - Full Pallet,Pick Mod - Carton Flow
+227,"(243773.0, 'SNAP-IN GUARD/FILTER - WHITE')",Pick Mod - Bin,Pick Mod - Carton Flow
+228,"(1003119226.0, 'MKE M12 FUELSTUBBY3/8IMPWRCH TOOLONL')",Pick Mod - Bin,Pick Mod - Carton Flow
+229,"(911252.0, 'R15 KRAFTFACED 15"" MINI ROLL 30 SQFT')",Oblong,Bulk Floor
+230,"(774777.0, 'ESPOMA GARDEN TONE 8#')",Pick Mod - Carton Flow,Pick Mod - Bin
+231,"(1001251858.0, 'MIRAGE WAINSCOT 32X48 PRIMED')",Cantilever,Bulk Floor
+232,"(1000946810.0, 'RECESSED SOLID SURFACE SOAP DISH IN')",SR - Full Pallet,Pick Mod - Carton Flow
+233,"(468318.0, 'TUMBLING COMPOSTER WITH TWO CHAMBERS')",SR - Full Pallet,Pick Mod - Carton Flow
+234,"(1003174557.0, 'FLAT PANEL 2X4 LED 4700 LUMEN UNV VO')",Oblong,Doors and Panels - Single Deep
+235,"(1000055346.0, 'NUTONE 130CFM 1.5 SONE LITE/NITE LIT')",Pick Mod - Carton Flow,SR - Full Pallet
+236,"(1001083391.0, 'IRONITE II 1-01 5M 15# (OLD VERSION)')",Cantilever,Bulk Floor
+237,"(1000051320.0, 'GE 70A RV PANEL W/20A GFI RECPT')",Pick Mod - Bin,Pick Mod - Carton Flow
+238,"(1003221090.0, 'SCOTTS GRUBEX SSN LNG GRUB KLLR 10M')",Pick Mod - Bin,SR - Full Pallet
+239,"(1002159262.0, 'SLIME 128OZ GARDEN TIRE SEALANT')",Pick Mod - Carton Flow,Pick Mod - Bin
+240,"(1005579325.0, 'BOUNTY ESSENTIALS 6 DOUBLE ROLL')",Pick Mod - Carton Flow,SR - Full Pallet
+241,"(1000316073.0, '50 CFM CEILING EXHAUST FAN WITH LIGH')",Pick Mod - Carton Flow,SR - Full Pallet
+242,"(1003060804.0, '25 FTS. 30 AMP 125/250-VOLT FAN-STYL')",Pick Mod - Bin,Pick Mod - Carton Flow
+243,"(1002262762.0, 'INVOLVE HC-WAVE 2-HANDLE INSTANT HOT')",Pick Mod - Bin,Pick Mod - Carton Flow
+244,"(1004584687.0, 'UNFINISHED MAPLE 74 IN.')",Doors and Panels - Single Deep,Bulk Floor
+245,"(249975.0, 'CRITTER RIDDER GRANULE 2 LB')",Pick Mod - Carton Flow,Pick Mod - Bin
+246,"(1005887414.0, 'MAKITA 18V TRIMMER/POLE SAW COMBO')",Pick Mod - Carton Flow,SR - Full Pallet
+247,"(768387.0, ""6' FG STEP LADDER TI 250LB"")",Doors and Panels - Single Deep,Bulk Floor
+248,"(1002406145.0, 'DEWALT 20V 5AH BATTERY PACK')",Pick Mod - Carton Flow,Pick Mod - Bin
+249,"(652113.0, '1/2""X100\' ALUM FLEX CONDUIT')",Pick Mod - Carton Flow,SR - Full Pallet
+250,"(1002624318.0, 'PERF 36KW SLF-MODULATING TANKLESS')",Pick Mod - Carton Flow,SR - Full Pallet
+251,"(1002490113.0, 'STYLE PLUS WHT TOP SHELF KIT')",Pick Mod - Carton Flow,SR - Full Pallet
+252,"(1003238924.0, 'FLAT BORING BIT SET (13-PIECE)')",Pick Mod - Carton Flow,Pick Mod - Bin
+253,"(1000029015.0, 'PAVER BASE PANEL')",Pick Mod - Bin,Pick Mod - Carton Flow
+254,"(1000308526.0, 'M18 FUEL 18-VOLT BRUSHLESS LITHIUM-I')",SR - Full Pallet,Pick Mod - Carton Flow
+255,"(1005662674.0, 'BADGER 5 1/2 HP CONTINUOUS FEED GARB')",Pick Mod - Bin,Pick Mod - Carton Flow
+256,"(296368.0, 'SUNCAST 150 FT. HOSE HANGOUT')",Pick Mod - Carton Flow,Pick Mod - Bin
+257,"(344259.0, '4"" GALV T-TOP PIPE FLASHING')",Pick Mod - Carton Flow,SR - Full Pallet
+258,"(1001607871.0, 'TURF BLDR 3.75LB EZ SEED')",Pick Mod - Carton Flow,Pick Mod - Bin
+259,"(922166.0, 'DREMEL 12V MAX CORDLESS ROTARY TOOL')",Pick Mod - Bin,Pick Mod - Carton Flow
+260,"(1003416773.0, '1-1/2 IN. IPS POLY TO 1-1/2 IN. MIP')",Pick Mod - Carton Flow,SR - Half Pallet
+261,"(255686.0, 'ZEP HIGH TRAFFIC FLOOR FINISH 5GAL')",SR - Full Pallet,Pick Mod - Bin
+262,"(1000915702.0, '20OZ GLASS GARDEN SONG HB FEEDER')",Pick Mod - Carton Flow,Pick Mod - Bin
+263,"(1000650525.0, '16 IN. 3-SPEED OSCILLATING PERFORMAN')",Pick Mod - Carton Flow,SR - Full Pallet
+264,"(1000048063.0, '24X80 LVR-PNL WHITE BIFOLD DOOR')",Doors and Panels - Single Deep,Oblong
+265,"(1003595121.0, 'DURAFLAME 4.5 WAX FIRE LOG 9PK')",Pick Mod - Bin,SR - Full Pallet
+266,"(1000476033.0, 'CAXTON UNDERMOUNT BATHROOM SINK IN W')",Pick Mod - Carton Flow,SR - Full Pallet
+267,"(360199.0, 'SCOTCHBLUE 1.88"" 2090 6PK')",Oblong,Pick Mod - Bin
+268,"(495378.0, 'GE 100A 16/32 MB CSED OH/UG/SURFACE')",Pick Mod - Carton Flow,SR - Full Pallet
+269,"(1006685575.0, 'MKE M18 FUEL 15 GA FINISH NAILER GEN')",SR - Full Pallet,Pick Mod - Carton Flow
+270,"(1002708088.0, 'GRAY SHELF 12""X72""')",Cantilever,Oblong
+271,"(1003104377.0, '36""X14""X54"" CHROME WIRE 4-SHELF')",SR - Full Pallet,Pick Mod - Carton Flow
+272,"(1002746047.0, 'REDSTICK MAGNETIC LEVEL COMBO SET (')",Doors and Panels - Single Deep,Oblong
+273,"(478006.0, 'SUNCAST SMALL VERTICAL SHED')",Doors and Panels - Single Deep,Bulk Floor
+274,"(1001850351.0, 'DW CHRGR/BLUETOOTH RADIO')",Pick Mod - Carton Flow,SR - Full Pallet
+275,"(1002751796.0, 'TWIN WINDOW FAN ELECT REV W REM')",Pick Mod - Carton Flow,SR - Full Pallet
+276,"(1003989772.0, 'MKE M18 FUEL 1-9/16"" SDSMAX RTRYHM')",Pick Mod - Bin,Pick Mod - Carton Flow
+277,"(1005222691.0, 'DW 8V SCREWDRIVER W/ 1AH BATTERY')",Pick Mod - Carton Flow,Pick Mod - Bin
+278,"(153427.0, 'HOMELITE 17"" GAS CURVED TRIMMER')",SR - Full Pallet,Pick Mod - Carton Flow
+279,"(1001220863.0, 'OLGELTHORPE 3LT VANITY DNI')",Pick Mod - Carton Flow,SR - Full Pallet
+280,"(1005147887.0, 'RYOBI 18-VOLT ONE+ RECIPROCATING SAW')",Pick Mod - Bin,Pick Mod - Carton Flow
+281,"(711991.0, '18"" WHITE 3-TIER RACK')",SR - Full Pallet,Pick Mod - Bin
+282,"(924681.0, '14""X8"" 3-WAY WALL/CEIL REGISTER')",Pick Mod - Carton Flow,Pick Mod - Bin
+283,"(1003057523.0, '16 IN. X 25 IN. X 1 IN. ALLERGEN PLE')",Pick Mod - Carton Flow,SR - Full Pallet
+284,"(1000545661.0, 'MISTOS 1HDL KITCH FAUCET W/SPRAY SS')",SR - Full Pallet,Pick Mod - Bin
+285,"(1003135357.0, 'M18 FUEL 18-VOLT LITHIUM-ION BRUSHLE')",Pick Mod - Bin,Pick Mod - Carton Flow
+286,"(1001023915.0, 'TANKLESS FLUSH KIT')",Pick Mod - Carton Flow,SR - Full Pallet
+287,"(1005024419.0, '14 IN OUTDOOR WALL SCONCE ORB')",Pick Mod - Carton Flow,SR - Full Pallet
+288,"(1004319659.0, 'SMARTECH JSL-1250 POWER STATION WITH')",Pick Mod - Carton Flow,SR - Full Pallet
+289,"(255685.0, 'ZEP HIGH TRAFFIC FLOOR FINISH 128OZ')",Pick Mod - Bin,Pick Mod - Carton Flow
+290,"(1004262146.0, '3X12 LUXECRAFT WHITE - CA - 12SF')",Pick Mod - Bin,SR - Half Pallet
+291,"(1001819022.0, 'HDC STONY OAK GRAY VINYL PLANK 20.34')",SR - Full Pallet,Pick Mod - Carton Flow
+292,"(1005223286.0, 'DW SCROLL SAW STAND')",SR - Full Pallet,Pick Mod - Bin
+293,"(1002333482.0, '18-VOLT LXT LITHIUM-ION CORDLESS HED')",SR - Full Pallet,Pick Mod - Carton Flow
+294,"(1002926612.0, ""40 LB LAWN THICK'R TALL FESCUE"")",Doors and Panels - Single Deep,Bulk Floor
+295,"(1004252262.0, '20-VOLT MAX LITHIUM ION CORDLESS BRU')",Pick Mod - Bin,Pick Mod - Carton Flow
+296,"(1004356513.0, 'MKE M18 FUEL 7-1/4IN RH CIRC (BT)')",Pick Mod - Carton Flow,SR - Full Pallet
+297,"(1002841848.0, 'WHISPERCEILING DC FAN WITH LED LIGHT')",Pick Mod - Carton Flow,SR - Full Pallet
+298,"(1005234861.0, 'TIDE HE LQ ORIGINAL 69OZ')",Pick Mod - Bin,Pick Mod - Carton Flow
+299,"(1000636175.0, 'DAYTON TOP MOUNT STAINLESS STEEL 15X')",Pick Mod - Carton Flow,SR - Full Pallet
+300,"(1004923076.0, '42 IN. H X 96 IN. W X 32 IN. D ADJUS')",Oblong,Bulk Floor
+301,"(1004628152.0, 'MM FH ACCENT TABLE')",Pick Mod - Carton Flow,SR - Full Pallet
+302,"(1000048315.0, '31.5""X76.25\'X6 MIL MOISTURE BARRIER')",Bulk Floor,Oblong
+303,"(319037.0, 'TURF BUILDER S&S 20LB EZ SEED')",Pick Mod - Carton Flow,SR - Half Pallet
+304,"(1001419920.0, 'TRADITNAL SHWR TRACK 48-60"" CHROME')",Oblong,Doors and Panels - Single Deep
+305,"(1001194639.0, 'RB 1/4IN TUBING 6IN SPC-50FT BIN126')",Pick Mod - Bin,Pick Mod - Carton Flow
+306,"(1002753432.0, 'INSTANT HOT WATER TANK FOR HOT WATER')",Pick Mod - Bin,Pick Mod - Carton Flow
+307,"(929866.0, 'RIDGID 12 GAL WET/DRY VAC')",SR - Full Pallet,Pick Mod - Pallet Flow
+308,"(1002225137.0, 'RYOBI FOAM BLASTER REFILL')",Pick Mod - Bin,Pick Mod - Carton Flow
+309,"(1005290013.0, '22 IN. ELECTRIC CERAMIC TOWER HEATER')",Pick Mod - Pallet Flow,Pick Mod - Carton Flow
+310,"(360193.0, 'SCOTCHBLUE .94"" 2090 9PK')",Pick Mod - Carton Flow,Pick Mod - Bin
+311,"(1001604419.0, 'KELLOGG ORGANIC FRUIT TREE 11.5 LB')",Pick Mod - Carton Flow,Pick Mod - Bin
+312,"(1002081930.0, 'ADLER 1HDL SHOWER ONLY FAUCET CH')",Pick Mod - Carton Flow,Pick Mod - Bin
+313,"(1004439698.0, 'M18 FUEL 18-VOLT LI-ION BRUSHLESS CO')",SR - Full Pallet,Pick Mod - Carton Flow
+314,"(1006841148.0, 'ONE+ 18V EZCLEAN 600 PSI CORDLES')",Pick Mod - Bin,Pick Mod - Carton Flow
+315,"(1003113534.0, '3.2 AMP ELECTRIC 17 IN. HEDGE TRIMME')",Pick Mod - Carton Flow,SR - Full Pallet
+316,"(440000.0, '7500CFM 120V EVAPORATIVECOOLER PUMP')",Pick Mod - Carton Flow,Pick Mod - Bin
+317,"(1002262978.0, 'CENTURY SATIN NICKEL LOWER HALF HAND')",Pick Mod - Bin,Pick Mod - Carton Flow
+318,"(1003520762.0, '1-LIGHT OIL RUBBED BRONZE MINI PENDA')",Pick Mod - Carton Flow,SR - Full Pallet
+319,"(1001698099.0, 'HDX 13G SCENTED 140 COUNT')",Pick Mod - Carton Flow,Pick Mod - Pallet Flow
+320,"(1004156152.0, 'HAMPTON BAY 110 CFM BATH FAN 1 SONE')",Pick Mod - Carton Flow,SR - Full Pallet
+321,"(132458.0, 'KIDDE PRO 460 FIRE EXTINGUISHER')",Pick Mod - Bin,Pick Mod - Carton Flow
+322,"(1003904939.0, '21.13 IN. CULTURED MARBLE SIDESPLASH')",Pick Mod - Bin,Pick Mod - Carton Flow
+323,"(1000384762.0, 'BANBURY 22.95 IN. X 26 IN. PIVOTING')",Pick Mod - Carton Flow,SR - Full Pallet
+324,"(1000012747.0, 'TENMAT RECESSED LIGHT COVER')",SR - Full Pallet,Pick Mod - Carton Flow
+325,"(1000021292.0, 'FEBREZE AIR LINEN&SKY 2X8.8OZ')",Pick Mod - Carton Flow,Pick Mod - Bin
+326,"(400422.0, 'PENN EPSOM SALT 7#')",Pick Mod - Carton Flow,SR - Half Pallet
+327,"(773482.0, ""ROTARY NOZZLE 17' 360 PAT HUNTER"")",Pick Mod - Bin,Pick Mod - Carton Flow
+328,"(1002822545.0, '6X36 P&S GRY WOOD VNL PLANK 36SF/C')",Pick Mod - Bin,Pick Mod - Carton Flow
+329,"(1003518804.0, '16 IN OSCILLATING FAN')",Pick Mod - Carton Flow,SR - Half Pallet
+330,"(219909.0, 'SELECTIVES T4 WHITE 25"" CLOSET KIT')",Bulk Floor,Doors and Panels - Single Deep
